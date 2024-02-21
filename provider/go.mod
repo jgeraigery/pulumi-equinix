@@ -5,7 +5,7 @@ go 1.21
 replace (
 	github.com/equinix/terraform-provider-equinix => ../upstream
 	github.com/hashicorp/go-cty => github.com/hashicorp/go-cty v1.4.1-0.20200723130312-85980079f637
-	github.com/hashicorp/terraform-plugin-sdk/v2 => github.com/pulumi/terraform-plugin-sdk/v2 v2.0.0-20230912190043-e6d96b3b8f7e
+	github.com/hashicorp/terraform-plugin-sdk/v2 => github.com/pulumi/terraform-plugin-sdk/v2 7ac578ce47fc
 )
 
 require (
